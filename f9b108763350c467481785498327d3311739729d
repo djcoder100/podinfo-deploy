@@ -1,0 +1,1 @@
+{"jobID":"bf077275-8b35-95e6-4576-d64fe90374e7","spec":{"type":"policy","cause":{"Message":"","User":"Rajan Patel \u003cdjcoder@kikuconsultancy.co.uk\u003e"},"spec":{"dev:deployment/metricdemo":{"add":null,"remove":{"automated":"true"}}}},"result":null}
