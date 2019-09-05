@@ -1,0 +1,1 @@
+{"jobID":"3a191e2f-beda-f95e-96f3-1bf0a1c935d1","spec":{"type":"policy","cause":{"Message":"","User":"Rajan Patel \u003cdjcoder@kikuconsultancy.co.uk\u003e"},"spec":{"dev:deployment/podinfo":{"add":null,"remove":{"automated":"true"}}}},"result":null}
