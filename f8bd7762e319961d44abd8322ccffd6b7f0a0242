@@ -1,0 +1,1 @@
+{"jobID":"cf472024-2681-c2c6-f6f4-55e110ba403e","spec":{"type":"policy","cause":{"Message":"","User":"Rajan Patel \u003cdjcoder@kikuconsultancy.co.uk\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
